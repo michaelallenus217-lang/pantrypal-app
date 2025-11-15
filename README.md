@@ -9,7 +9,7 @@
 
 **Status:** 🚧 In Development (Started November 2025)  
 **Target Launch:** November 2026  
-**Developer:** Michael - Military Chef transitioning to Software Engineering
+**Developer:** Michael Allen- Military Chef transitioning to Software Engineering
 
 ---
 
@@ -403,8 +403,8 @@ This project combines my culinary expertise with software engineering skills to 
 - User-focused product development
 
 **Connect:**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [@michaelallenus217-lang](https://github.com/michaelallenus217-lang)
+- LinkedIn: [Michael Allen](https://linkedin.com/in/michaelallenus217)
 - Portfolio: [Coming Soon]
 
 ---
